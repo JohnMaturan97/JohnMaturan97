@@ -12,7 +12,6 @@
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" />
 </p>
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/6e740902-ae17-42c3-85c9-b4d017d8e21e/image.png" width="100" />
   <img src="https://bcert.me/bc/html/img/badges/generated/badge-7224.png" width="100" />
   <img src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="100" />
   <img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="100" />
@@ -21,6 +20,7 @@
   <img src="https://images.credly.com/size/340x340/images/050eb175-b923-4c68-9dfe-aa8da5f43281/cert_mark_SDP_badge_large_300px.png" width="100" />
 </p>
 <p align="left">
+  <img src="https://images.credly.com/size/340x340/images/6e740902-ae17-42c3-85c9-b4d017d8e21e/image.png" width="100" />
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2022.png" width="100" />
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png" width="100" />
 </p>
