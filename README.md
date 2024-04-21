@@ -1,6 +1,6 @@
 # Hi 👋, I'm John Maturan
 
-### Experienced Cloud Engineer specializing in Database Engineering, seeking to leverage extensive knowledge of AWS database services and infrastructure optimization in a dynamic, team-focused environment.
+### I am an experienced Cloud Engineer specializing in Database Engineering, seeking to leverage my extensive knowledge of AWS services, infrastructure, and security optimization in a dynamic, team-focused environment.
 
 ## Certifications and Certificates
 
