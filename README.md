@@ -5,16 +5,16 @@
 ## Certifications and Certificates
 
 <p align="left">
-  <img src="[https://images.credly.com/size/340x340/images/b3a49033-792c-43a8-8d56-bc67f28f85c1/cert_mark_POPM_badge_large_300px.png](https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2022.png)" width="100" />
-  <img src="[https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png](https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png)" width="100" />
+  <img src="https://images.credly.com/size/340x340/images/b3a49033-792c-43a8-8d56-bc67f28f85c1/cert_mark_POPM_badge_large_300px.png" width="100" />
+  <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" />
   <img src="https://images.credly.com/size/340x340/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png" width="100" />
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" />
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" />
 </p>
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/sync/C4D27AQF1ptPPXVwCwA/articleshare-shrink_1280_800/0/1711665265959?e=1714341600&v=beta&t=6sm5ToIaOQDgjUKHVSh86X6hPfIt2XfSFXlSCS1AijU" width="100" />
-  <img src="" width="100" />
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2022.png" width="100" />
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png" width="100" />
   <img src="https://images.credly.com/size/340x340/images/6e740902-ae17-42c3-85c9-b4d017d8e21e/image.png" width="100" />
   <img src="https://bcert.me/bc/html/img/badges/generated/badge-7224.png" width="100" />
   <img src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="100" />
