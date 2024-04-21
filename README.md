@@ -13,8 +13,8 @@
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" />
 </p>
 <p align="left">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2022.png" width="100" />
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png" width="100" />
+  <img src="[https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2022.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcatalog-education.oracle.com%2Fpls%2Fcertview%2Fsharebadge%3Fid%3D476E4889330CD97F7F9060ACEDB8382DF928854E1E6537D2E7E4FAB85FDACE5F&psig=AOvVaw2HEGij13sjNH2lr03NoIU0&ust=1713821645264000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJin26Wh1IUDFQAAAAAdAAAAABAE)" width="100" />
+  <img src="[https://brm-workforce.oracle.com/pdf/certview/images/OCIF2022CA.png](https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2022.png)" width="100" />
   <img src="https://images.credly.com/size/340x340/images/6e740902-ae17-42c3-85c9-b4d017d8e21e/image.png" width="100" />
   <img src="https://bcert.me/bc/html/img/badges/generated/badge-7224.png" width="100" />
   <img src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="100" />
