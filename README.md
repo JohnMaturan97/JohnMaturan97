@@ -1,6 +1,6 @@
 # Hi 👋, I'm John Maturan
 
-### John is an experienced Cloud Engineer specializing in Database Engineering, with a background in project management. He is deeply passionate and committed to the future of technological innovation. Leveraging his extensive knowledge of AWS services, cloud infrastructure, cloud security, and automation, John thrives in dynamic, team-focused environments. Currently, he is applying his expertise to cloud computing and cloud database management, continually advancing his skills in the ever-evolving field of Cloud Engineering.
+### Accomplished Cloud Engineer with specialized expertise in Cloud Database Engineering and a solid foundation in project management. Passionate about technological innovation, John excels in leveraging advanced AWS services, cloud infrastructure, networking, and security solutions in team-oriented environments. Currently focused on enhancing cloud computing and cloud infrastructure, John is committed to staying at the forefront of advancements in Cloud Engineering.
 
 ## Certifications and Certificates
 
